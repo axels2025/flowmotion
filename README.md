@@ -102,3 +102,7 @@ swiftc FlowMotion/ButtonInterpreter.swift ButtonInterpreterSmokeTests/main.swift
 
 xcodebuild -project FlowMotion.xcodeproj -scheme FlowMotion -configuration Debug -destination 'generic/platform=iOS' -derivedDataPath Build/DerivedData CODE_SIGNING_ALLOWED=NO build
 ```
+
+## License
+
+Free for everyone for non-commercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE).
