@@ -105,4 +105,4 @@ xcodebuild -project FlowMotion.xcodeproj -scheme FlowMotion -configuration Debug
 
 ## License
 
-Free for everyone for non-commercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+Released under the [MIT License](LICENSE).
